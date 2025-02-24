@@ -1,4 +1,4 @@
-### Assignment 3: Working with text
+### Assignment 3: Clustering and Naive Bayes
 #### Due Mon March 10, 11:59pm
 
 In this assignment you'll extend the starter code I've provided to implement two different
